@@ -1,0 +1,27 @@
+{
+  "name": "simple-mqtt",
+  "version": "1.0.0",
+  "description": "mqtt simple operations",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JainulFirdavus/simple-mqtt.git"
+  },
+  "keywords": [
+    "mqtt"
+  ],
+  "author": "jainul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JainulFirdavus/simple-mqtt/issues"
+  },
+  "homepage": "https://github.com/JainulFirdavus/simple-mqtt#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mosca": "^2.8.3",
+    "mqtt": "^4.2.6"
+  }
+}
